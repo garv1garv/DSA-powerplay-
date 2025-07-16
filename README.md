@@ -7,7 +7,7 @@ Welcome to the **DSA 10-Day Mastery Tracker**, your personal dashboard to master
 ## 🌐 Live Preview
 
 🔗 **Access the Tracker Here:**  
-[preview-dsa-mastery-plan-tracker](https://preview-dsa-mastery-plan-tracker-kzmkbd2zuovb5zcplqae.vusercontent.net)
+[DSA POWERPLAY](https://dsa-powerplay.vercel.app/)
 
 ---
 
